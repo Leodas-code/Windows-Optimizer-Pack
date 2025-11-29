@@ -1,65 +1,51 @@
-Windows Optimizer (Silent Optimizer)
+**🚀 Windows Power Optimizer**
 
-Created by: Rithish (Age 14)
-Type: Windows Optimization Batch Tool
-Purpose: Improve performance on low-end or second-hand PCs
+A lightweight batch-based optimization tool designed to improve performance, reduce background activity, and clean temporary files on Windows systems — safely and instantly.
 
-🔹 Overview
+_✨ Features_
 
-Windows Optimizer is a lightweight batch script that helps optimize Windows performance, especially for low-spec laptops.
-It focuses on:
+_⚡ Switches Windows to High Performance mode_
 
-Disabling unnecessary animations
+_🚫 Disables unnecessary animations_
 
-Stopping background apps
+_❌ Stops excessive background apps_
 
-Removing startup shortcuts
+_🧹 Clears TEMP folder automatically_
 
-Enabling High Performance power plan
+_🔄 Restarts Explorer for smooth experience_
 
-Cleaning temporary files
+_🪄 Removes unwanted startup shortcuts_
 
-This tool is designed to be simple, fast, and safe.
+🖥️ Fast, simple, lightweight (Batch script)
 
-🔹 Features
-Feature	Description
-Disable Animations	Turns off minimize/maximize animations for faster UI
-Stop Background Apps	Prevents apps from running in background to save RAM
-Remove Startup Apps	Deletes unnecessary startup shortcuts
-High Performance Mode	Switches Windows to High Performance power plan
-Clean TEMP Folder	Deletes temporary files to free up disk space
-🔹 Usage
+📄 Commands Included (for transparency)
 
-Download windows_optimizer.bat.
+_**reg add "HKCU\Control Panel\Desktop\WindowMetrics" /v MinAnimate /t REG_SZ /d 0 /f**_
+_**taskkill /f /im explorer.exe**_
+_**start explorer.exe**_
 
-Right-click → Run as Administrator.
+_**reg add "HKLM\SOFTWARE\Policies\Microsoft\Windows\AppPrivacy" /v LetAppsRunInBackground /t REG_DWORD /d 2 /f**_
 
-Follow any on-screen instructions (if needed).
+_**del "C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Startup\*" /q**_
 
-Enjoy a cleaner, faster Windows experience.
+_**powercfg -s 8c5e7fda-e8bf-4a96-9a85-a6e23a8c635c**_
 
-⚠ Note: Always back up your important data. This script only modifies safe settings and temporary files.
+_**del /q /f "%TEMP%\*"**_
 
-🔹 Technical Info
+**🛠️ How to Use**
 
-Built using Windows Batch scripting
+Download the .bat file from this repository
 
-Uses Registry edits, Taskkill commands, Powercfg, and DEL commands
+Right-click → Run as Administrator
 
-Fully lightweight and portable
+Wait a few seconds
 
-No installation required
+Your PC will refresh and apply optimizations
 
-🔹 Credits
+**🛡️ Notice**
 
-Created by Rithish (Age 14) as a personal project to explore Windows optimization and software development.
+This tool uses safe and commonly used Windows commands.
+It does not install anything and does not modify system files.
 
-🔹 Future Improvements (Optional)
-
-Add GUI interface for easier control
-
-Include safe service disabling
-
-Add game mode and RAM booster
-
-Provide a “Pro” version with additional optimizations (for personal learning)
+Still, as with any optimization script,
+you should use it only if you understand what it does.
