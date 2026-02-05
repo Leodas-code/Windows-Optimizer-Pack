@@ -10,3 +10,6 @@ del "C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Startup\*" /q
 powercfg -s 8c5e7fda-e8bf-4a96-9a85-a6e23a8c635c
 
 del /q /f "%TEMP%\*"
+
+wmic.exe /Namespace:\\root\default Path SystemRestore Call CreateRestorePoint "Windows Optimizer", 100, 7
+echo Restore Point created in the name of 'Windows Optimizer'
