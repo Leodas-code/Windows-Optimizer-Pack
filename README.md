@@ -21,7 +21,7 @@ It does not install anything and does not modify system files.
 
 I don't update the resporitary for safety and regularly update in releases
 
-**v3.x is the stable version**
+**v3.0 is the stable version, v3.x is experimental versions, so v3.x and give feedbacks**
 
 Still, as with any optimization script,
 you should use it only if you understand what it does.
