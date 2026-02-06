@@ -12,6 +12,8 @@ Wait a few seconds
 
 Your PC will refresh and apply optimizations
 
+**PLEASE GIVE FEEDBACK AND SUGGESTIONS IN DISCUSSION TAB**
+
 **🛡️ Notice**
 
 This tool uses safe and commonly used Windows commands.
