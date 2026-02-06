@@ -1,4 +1,4 @@
-**🚀 Windows Power Optimizer**
+**🚀 WinOptima**
 
 A lightweight batch-based optimization tool designed to improve performance, reduce background activity, and clean temporary files on Windows systems — safely and instantly.
 
