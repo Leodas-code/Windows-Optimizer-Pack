@@ -1,4 +1,4 @@
-![WinOptima Logo](asset/logo.png)
+<img src="asset/logo.png" width="300" alt="Alt text" />
 
 # WinOptima - Windows Performance Optimizer
 
