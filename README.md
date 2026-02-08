@@ -61,8 +61,7 @@ WinOptima performs the following optimizations:
 
 ## 📦 Versions
 
-- **v3.0** - ⭐ Stable Release (Recommended for daily use)
-- **v3.x** - 🧪 Experimental Versions (Testing & feedback welcome)
+- **v4.0** - ⭐ Stable Release (Recommended for daily use)
 
 ---
 
