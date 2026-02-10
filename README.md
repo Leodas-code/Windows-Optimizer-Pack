@@ -8,12 +8,12 @@ A lightweight, safe, and efficient optimization tool designed to boost your Wind
 
 ##  Features
 
-- ** Fast Performance Boost** - Instantly optimize system performance
-- ** Cleanup Temporary Files** - Remove junk and cache files safely
-- ** Background Optimization** - Reduce unnecessary background processes
-- ** Safe & Non-Invasive** - Uses only verified Windows commands, no system file modifications
-- ** Zero Installation** - Single batch file execution, no software to install
-- ** One-Click Operation** - Run as Administrator and let it handle the rest
+- **Fast Performance Boost** - Instantly optimize system performance
+- **Cleanup Temporary Files** - Remove junk and cache files safely
+- **Background Optimization** - Reduce unnecessary background processes
+- **Safe & Non-Invasive** - Uses only verified Windows commands, no system file modifications
+- **Zero Installation** - Single batch file execution, no software to install
+- **One-Click Operation** - Run as Administrator and let it handle the rest
 
 ---
 
