@@ -6,18 +6,18 @@ A lightweight, safe, and efficient optimization tool designed to boost your Wind
 
 ---
 
-## ✨ Features
+##  Features
 
-- **⚡ Fast Performance Boost** - Instantly optimize system performance
-- **🗑️ Cleanup Temporary Files** - Remove junk and cache files safely
-- **🔧 Background Optimization** - Reduce unnecessary background processes
-- **🛡️ Safe & Non-Invasive** - Uses only verified Windows commands, no system file modifications
-- **💾 Zero Installation** - Single batch file execution, no software to install
-- **🔄 One-Click Operation** - Run as Administrator and let it handle the rest
+- ** Fast Performance Boost** - Instantly optimize system performance
+- ** Cleanup Temporary Files** - Remove junk and cache files safely
+- ** Background Optimization** - Reduce unnecessary background processes
+- ** Safe & Non-Invasive** - Uses only verified Windows commands, no system file modifications
+- ** Zero Installation** - Single batch file execution, no software to install
+- ** One-Click Operation** - Run as Administrator and let it handle the rest
 
 ---
 
-## 🚀 Quick Start
+##  Quick Start
 
 ### Requirements
 - Windows 7 or newer
@@ -25,11 +25,10 @@ A lightweight, safe, and efficient optimization tool designed to boost your Wind
 
 ### Installation & Usage
 
-1. **Download** the latest `.bat` file from the [Releases](https://github.com/Leodas-code/Windows-Optimizer-Pack/releases) section
+1. **Download** the latest `.exe` file from the [Releases](https://github.com/Leodas-code/Windows-Optimizer-Pack/releases) section
 2. **Right-click** the downloaded file
 3. **Select** "Run as Administrator"
-4. **Wait** for the optimization process to complete
-5. **Done!** Your system will refresh with applied optimizations
+5. **Done!**
 
 ---
 
@@ -46,9 +45,9 @@ WinOptima performs the following optimizations:
 
 ---
 
-## 🛡️ Safety Notice
+##  Safety Notice
 
-✅ **Safe & Trustworthy**
+ **Safe & Trustworthy**
 - Uses only standard Windows commands
 - Does NOT modify critical system files
 - Does NOT install additional software
@@ -59,25 +58,25 @@ WinOptima performs the following optimizations:
 
 ---
 
-## 📦 Versions
+##  Versions
 
 - **v4.0** - ⭐ Stable Release (Recommended for daily use)
 
 ---
 
-## 🤝 Contributing & Feedback
+##  Contributing & Feedback
 
 I'd love to hear from you! Please share your:
-- ✨ Feature suggestions
-- 🐛 Bug reports
-- 💡 Ideas for improvement
-- ⭐ Success stories
+-  Feature suggestions
+-  Bug reports
+-  Ideas for improvement
+-  Success stories
 
 **Visit the [Discussions Tab](https://github.com/Leodas-code/Windows-Optimizer-Pack/discussions) to leave feedback.**
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 - **Batch (.bat)** - 45.7%
 - **Python** - 54.3%
